@@ -96,12 +96,6 @@ article {
 	flex-direction: column;
 }
 
-.nom h3 {
-	font-weight: 600;
-	font-size: 20px;
-	line-height: 22px;
-}
-
 p {
 	font-family: 'Archivo';
 	font-style: normal;
@@ -133,6 +127,12 @@ p {
 .whiteContentSection h3,
 .whiteContentSection p {
 	color:  white;
+}
+
+.whiteContentSection h3 {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 22px;
 }
 
 .textCenter {
